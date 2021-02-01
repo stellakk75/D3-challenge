@@ -1,6 +1,6 @@
 # D3-challenge
 
-**This assignment uses html and Javascript-D3 to create a data visualization. The scatterplot shows the relationship between % of population in poverty vs % of people that lack healthcare for each of the 50 states.**
+**This assignment uses html/css and Javascript-D3 to create a data visualization chart. The chart is a scatterplot which shows relationship between % of population in poverty vs % of people that lack healthcare for each of the states.**
 
 * Script includes:
   * Pull data from csv file using d3
