@@ -5,8 +5,8 @@
 * Script includes:
   * Pull data from csv file using d3
   * Create scatter plot with each state shown within circle elements
-  * Appropriate labels and axes 
-  * Linearly scaled axes
-  * Create SVG chart with appropriate margins 
+  * Define appropriate labels and axes 
+  * Generate linearly scaled axes
+  * Produce SVG chart with appropriate margins 
   
   
