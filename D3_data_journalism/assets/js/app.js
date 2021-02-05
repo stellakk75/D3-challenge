@@ -92,5 +92,3 @@ chartGroup.append("text")
   .text("In Poverty (%)");
 
 })
-
-//need to add abbrev text to center of circle and also tool tip 
